@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+
+[[mods]]
+modId= "muchcraft"
+version="${file.jarVersion}"
+displayName="Muchcraft"
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png"
+credits="Muchware"
+authors="Kioshi" #Devs Add here
+
+
+description='''
+Muchcraft mod description
+'''
